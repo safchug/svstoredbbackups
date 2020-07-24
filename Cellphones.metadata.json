@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"svstore.Cellphones"}],"uuid":"e87fb7909be64604a48b3bbe0472c625"}

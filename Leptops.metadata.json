@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"svstore.Leptops"}],"uuid":"0e2402e46bda47078c2ea67d5f29b895"}
